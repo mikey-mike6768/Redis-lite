@@ -66,6 +66,9 @@ GET key1
    GET key1
    ```
 
+### License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 ## Contributing
 
 Feel free to fork the repository and submit pull requests for any improvements or features!
